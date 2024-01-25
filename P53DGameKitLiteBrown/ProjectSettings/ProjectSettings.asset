@@ -4,7 +4,7 @@
 PlayerSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 23
-  productGUID: 2662ed747073e2847898a9c5b030730a
+  productGUID: eca109aaad6cf96439576e28deab130f
   AndroidProfiler: 0
   AndroidFilterTouchesWhenObscured: 0
   AndroidEnableSustainedPerformanceMode: 0
@@ -696,10 +696,10 @@ PlayerSettings:
   apiCompatibilityLevel: 6
   activeInputHandler: 0
   windowsGamepadBackendHint: 0
-  cloudProjectId: c5de7960-c3aa-44a1-bb98-b1358b4ba947
+  cloudProjectId: c1f9e46e-7eaa-4387-b04f-9c98f7a8e11a
   framebufferDepthMemorylessMode: 0
   qualitySettingsNames: []
-  projectName: P53DGameKitLiteBrown
+  projectName: P53DGameKitLiteBrown 2024-01-25_13-04-09
   organizationId: buried7564
   cloudEnabled: 0
   legacyClampBlendShapeWeights: 1
